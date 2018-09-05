@@ -11,7 +11,7 @@ while (multiplesOf  <= 10) console.log(" 4 x "  + multiplesOf + " = " + (four  *
 ;
 
 //FizzBuss
-
+//the challenge
 // for loop to iterate numbers 1 - 100
 for (i = 1; i <= 100; i++) {
 
