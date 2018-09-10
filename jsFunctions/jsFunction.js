@@ -16,7 +16,7 @@ console.log(square1(5)); // Must show 25
 console.log(square2(0)); // Must show 0
 console.log(square2(2)); // Must show 4
 console.log(square2(5)); // Must show 25
+
 for (x = 0; x <=10; x++){
   console.log(square1(x));   
-
 }
